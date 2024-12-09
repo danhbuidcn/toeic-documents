@@ -368,29 +368,31 @@
 
 - Lượng từ có quy tắc riêng khi đi kèm với danh từ số ít, số nhiều và không đếm được.
 
-| **Lượng từ**                     | **Danh từ số ít**       | **Danh từ số nhiều**     | **Danh từ không đếm được** |
-|-----------------------------------|-------------------------|--------------------------|-----------------------------|
-| every                             | ✅                       |                          |                             |
-| All/ All of                       |                         | ✅                        | ✅                           |
-| each                              | ✅                       |                          |                             |
-| some/ some of                     |                         | ✅                        | ✅                           |
-| both…and…                         |                         | ✅                        |                             |
-| most/ most of                     |                         | ✅                        | ✅                           |
-| either…or…                        | ✅                       |                          |                             |
-| any/ any of                       |                         | ✅                        | ✅                           |
-| no/ none of                       | ✅                       | ✅                        | ✅                           |
-| a lot of/ lots of/ plenty of      |                         | ✅                        | ✅                           |
-| enough                            |                         | ✅                        | ✅                           |
-| few/ a few                        |                         | ✅                        |                             |
-| little/ a little                  |                         |                          | ✅                           |
-| a large number of                 |                         | ✅                        |                             |
-| a great deal of/ a large amount of|                         |                          | ✅                           |
-| many                              |                         | ✅                        |                             |
-| much                              |                         |                          | ✅                           |
-| both, either, neither of          |                         | ✅                        |                             |
-| several                           |                         | ✅                        |                             |
-| less                              |                         |                          | ✅                           |
-
+    | **Lượng từ**                     | **Danh từ số ít**       | **Danh từ số nhiều**     | **Danh từ không đếm được** |
+    |-----------------------------------|-------------------------|--------------------------|-----------------------------|
+    | every                             | ✅                       |                          |                             |
+    | All/ All of                       |                         | ✅                        | ✅                           |
+    | each                              | ✅                       |                          |                             |
+    | some/ some of                     |                         | ✅                        | ✅                           |
+    | both…and…                         |                         | ✅                        |                             |
+    | most/ most of                     |                         | ✅                        | ✅                           |
+    | either…or…                        | ✅                       |                          |                             |
+    | any/ any of                       |                         | ✅                        | ✅                           |
+    | no/ none of                       | ✅                       | ✅                        | ✅                           |
+    | a lot of/ lots of/ plenty of      |                         | ✅                        | ✅                           |
+    | enough                            |                         | ✅                        | ✅                           |
+    | few/ a few                        |                         | ✅                        |                             |
+    | little/ a little                  |                         |                          | ✅                           |
+    | a large number of                 |                         | ✅                        |                             |
+    | a great deal of/ a large amount of|                         |                          | ✅                           |
+    | many                              |                         | ✅                        |                             |
+    | much                              |                         |                          | ✅                           |
+    | both, either, neither of          |                         | ✅                        |                             |
+    | several                           |                         | ✅                        |                             |
+    | less                              |                         |                          | ✅                           |
+    | fewer                             |                         | ✅                        |                             |
+    | another                           | ✅                       |                          |                             |
+    | other                             | ✅                       | ✅                        | ✅                           |
 
 - Lượng từ là một cụm mang tính đo lương: để định lượng danh từ không đếm được, ta có những cụm từ sau:
 
