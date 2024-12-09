@@ -234,8 +234,8 @@ Dựa trên nội dung bạn cung cấp, tôi sẽ kiểm tra và trình bày l�
 1. **both/either/neither + of + the/đại từ chỉ định/tính từ sở hữu + danh từ số nhiều**.  
 2. **both/either/neither + of + you/them/us**.  
 3. Động từ chia theo:  
-   - **both**: số nhiều.  
-   - **either/neither**: số ít.  
+   - **both/either**: số nhiều.  
+   - **either/neither**: số ít.
 
 ##### b. *VD*:  
 - **She looked at both of us.**  
@@ -244,6 +244,20 @@ Dựa trên nội dung bạn cung cấp, tôi sẽ kiểm tra và trình bày l�
   (Không ai trong số hai anh trai của tôi còn sống ở nhà.)  
 - **We don’t know if either of them is coming.**  
   (Chúng tôi không biết liệu có ai trong số họ đến không.)
+
+##### c. **So sánh giữa "either" và "neither":**
+
+| **Từ**      | **Nghĩa**                | **Cách dùng**                                                 |
+|--------------|--------------------------|---------------------------------------------------------------|
+| **Either**   | Một trong hai            | Dùng trong câu khẳng định, phủ định, hoặc câu hỏi:            |
+|              |                          | - **Khẳng định:** "Either of them is fine." (Một trong hai đều được.) |
+|              |                          | - **Phủ định:** "I don't think either of them is at home." (Tôi không nghĩ một trong hai người ở nhà.) |
+| **Neither**  | Không ai trong hai       | Dùng trong câu khẳng định để diễn đạt ý phủ định:             |
+|              |                          | - "Neither of them is at home." (Không ai trong hai người ở nhà.) |
+
++ Kết luận:
+  - **"Either"** được dùng đúng trong câu gốc vì câu có ý phủ định.  
+  - **"Neither"** chỉ được dùng khi không có từ phủ định khác trong câu.
 
 ---
 
@@ -273,6 +287,18 @@ Dựa trên nội dung bạn cung cấp, tôi sẽ kiểm tra và trình bày l�
        (Một cuộc thử nghiệm đã hoàn thành, và các cuộc khác đang được thực hiện.)  
      - **There are four workers. One is cleaning, and the others are taking a break.**  
        (Một người đang lau dọn, và những người khác đang nghỉ giải lao.)
+
+##### b. **So sánh "Other" và "Another":**
+
+| **Từ**        | **Cách dùng**                                     | **Ví dụ**                                   |
+|----------------|--------------------------------------------------|---------------------------------------------|
+| **Other**      | Dùng trước danh từ số nhiều hoặc không đếm được. | "She cares about other people."            |
+|                | Dùng trước danh từ số ít khi có từ hạn định.      | "She prefers the other option."            |
+| **Another**    | Dùng trước danh từ số ít đếm được.               | "She talked to another person."            |
+
++ **Kết luận:**
+  - Dùng **"other"** trong câu **"She never thinks about other people."** là đúng vì **"people"** là danh từ số nhiều.  
+  - **"Another"** không đúng vì nó chỉ dùng với danh từ số ít.
 
 ---
 
